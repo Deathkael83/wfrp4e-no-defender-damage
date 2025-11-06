@@ -1,16 +1,16 @@
 {
   "id": "wfrp4e-no-defender-damage",
-  "title": "WFRP4e - No Defender Damage (RAW)",
-  "description": "Prevents defenders from dealing damage when they win an opposed test, unless they possess a valid counterattack talent (e.g. Counter-Attack / Riposte). Implements RAW behaviour for WFRP4e melee and dodge tests.",
-  "version": "1.0.0",
+  "title": "WFRP4e - Conditional Defender Damage (RAW + Counter-Attack + Fast)",
+  "description": "Applies defender damage ONLY if the defender wins the opposed test AND has a counter-attack talent AND is using a Fast/Rapida weapon. Otherwise, no defender damage (RAW).",
+  "version": "1.1.0",
   "compatibility": {
-    "minimum": "12",
-    "verified": "13"
+    "minimum": "11",
+    "verified": "12"
   },
-  "authors": [{ "name": "Federico’s Assistant" }],
-  "esmodules": ["scripts/no-defender-damage.js"],
+  "authors": [{ "name": "Federico Prete" }],
   "systems": [{ "id": "wfrp4e" }],
-  "url": "https://github.com/<your-user>/wfrp4e-no-defender-damage",
+  "esmodules": ["scripts/no-defender-damage.js"],
+  "url": "https://github.com/Deathkael83/wfrp4e-no-defender-damage",
   "manifest": "https://github.com/Deathkael83/wfrp4e-no-defender-damage/releases/latest/download/module.json",
   "download": "https://github.com/Deathkael83/wfrp4e-no-defender-damage/releases/latest/download/module.zip",
 
