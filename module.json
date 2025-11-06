@@ -2,7 +2,7 @@
   "id": "wfrp4e-no-defender-damage",
   "title": "WFRP4e - Conditional Defender Damage (RAW + Counter-Attack + Fast)",
   "description": "Applies defender damage ONLY if the defender wins the opposed test AND has a counter-attack talent AND is using a Fast/Rapida weapon. Otherwise, no defender damage (RAW).",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
