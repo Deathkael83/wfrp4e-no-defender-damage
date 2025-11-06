@@ -12,7 +12,7 @@
   "systems": [{ "id": "wfrp4e" }],
   "url": "https://github.com/<your-user>/wfrp4e-no-defender-damage",
   "manifest": "https://raw.githubusercontent.com/deathkael83>/wfrp4e-no-defender-damage/main/module.json",
-  "download": "https://github.com/deathkael83/wfrp4e-no-defender-damage/archive/refs/heads/main.zip"
+  "download": "https://github.com/deathkael83/wfrp4e-no-defender-damage/archive/refs/heads/main.zip",
 
   "license": "MIT"
 }
