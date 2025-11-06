@@ -4,8 +4,8 @@
   "description": "Applies defender damage ONLY if the defender wins the opposed test AND has a counter-attack talent AND is using a Fast/Rapida weapon. Otherwise, no defender damage (RAW).",
   "version": "1.1.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+    "minimum": "12",
+    "verified": "13"
   },
   "authors": [{ "name": "Federico Prete" }],
   "systems": [{ "id": "wfrp4e" }],
