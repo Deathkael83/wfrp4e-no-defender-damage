@@ -11,8 +11,8 @@
   "esmodules": ["scripts/no-defender-damage.js"],
   "systems": [{ "id": "wfrp4e" }],
   "url": "https://github.com/<your-user>/wfrp4e-no-defender-damage",
-  "manifest": "https://raw.githubusercontent.com/deathkael83>/wfrp4e-no-defender-damage/main/module.json",
-  "download": "https://github.com/deathkael83/wfrp4e-no-defender-damage/archive/refs/heads/main.zip",
+"manifest": "https://github.com/Deathkael83/wfrp4e-no-defender-damage/releases/latest/download/module.json",
+"download": "https://github.com/Deathkael83/wfrp4e-no-defender-damage/releases/latest/download/module.zip",
 
   "license": "MIT"
 }
